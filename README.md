@@ -1,7 +1,9 @@
+<div style="text-align: justify">
+
 # ECODD : ECoconcevoir les aérostructures Optimales De Demain
 https://anr.fr/fileadmin/aap/2021/selection/mrsei-selection-vague-1-2021.pdf
 
-<style>body {text-align: right}</style>
+
 
 En prévision de 2050, le tonnage total de béton, d'acier, d'aluminium etc… nécessaire au développement des énergies vertes sera de 2 à 8 fois la production mondiale de 2010. Comment s’adapter à ce contexte et s’inscrire dans le cadre d’une recherche aérospatiale plus verte ? La réponse passera en partie vers la conception de matériaux architecturés et des structures fonctionnels possédant des propriétés et des fonctions particulières. L’impact sera alors déterminant dans l’optique d’une minimisation de masse ou d’impact CO2. Toutefois, la conception de ces éco-structures ne peut pas être abordée avec les règles existantes qui sont appliquées dans le développement actuel des aérostructures. Le projet ANR MRSEI ECODD, entend révolutionner le processus d’exploration de ces structures combinant l’exploitation des différentes méthodes d’optimisation topologique (implicite, explicite, multi échelle), des méthodes d’accélération via modèles de substitution, ainsi que le lien vers l’impression 3D, et les structures souples. 
 
