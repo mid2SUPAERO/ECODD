@@ -1,4 +1,4 @@
-<style>body {text-align: right}</style>
+<style>body {text-align: justify}</style>
 
 
 # ECODD : ECoconcevoir les aérostructures Optimales De Demain
