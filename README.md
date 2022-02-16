@@ -1,4 +1,5 @@
-<div style="text-align: justify">
+<style>body {text-align: right}</style>
+
 
 # ECODD : ECoconcevoir les aérostructures Optimales De Demain
 https://anr.fr/fileadmin/aap/2021/selection/mrsei-selection-vague-1-2021.pdf
