@@ -1,4 +1,4 @@
-
+<div style="text-align: right"> 
 
 
 # ECODD : ECoconcevoir les aérostructures Optimales De Demain
@@ -11,3 +11,4 @@ En prévision de 2050, le tonnage total de béton, d'acier, d'aluminium etc… n
 ![Aerostructures Durables](ECODD.png)
 
 L’objectif du projet est de développer une méthode innovante de construction de structures optimales éco conçues.  Ce travail transverse et collaboratif couvre le champ de la conception optimale des matériaux/structures mais aussi des procédés via l’analyse de cycle de vie et le bilan d’impact CO2 du procédé (incluant type de transport, lieu de fabrication, recyclabilité etc…) ainsi que le calcul haute performance raisonné. Le projet vise, en premier lieu, à concevoir, puis à fabriquer (via impression 3D) et tester des structures micro-architecturées et, en second lieu, à accélérer le cycle de conception/calcul via des techniques d’intelligence artificielle. Enfin l’objectif final serait d’initier la conception/fabrication de structures multifonctionnelles, multimatériaux et à déformation programmable sur quelques pièces ciblées d’aérostructures. Ce projet financé par l’ANR vise le dépôt d’une ERC Synergy Grant d’ici 2 ans avec 3 partenaires internationaux.
+</div>
