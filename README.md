@@ -1,14 +1,30 @@
-<div style="text-align: right"> 
+#ANR MRSEI ECODD
 
 
-# ECODD : ECoconcevoir les aérostructures Optimales De Demain
-https://anr.fr/fileadmin/aap/2021/selection/mrsei-selection-vague-1-2021.pdf
+##Talk 1 @ 3ME
+Title: On some recent developments in topology optimization of aerostructures {Stiffer, Lighter, Greener}
+Prof. Joseph Morlier, ISAE-SUPAEO/ICA {Visiting prof Kunal Masania at TU Delft May 2022}
+
+The goal of this presentation is to present two innovative numerical methods for designing ultralightweight structures.
+This presentation attempts to demonstrate the contribution of reproducible research with two recent attempts of Prof Morlier’s group untitled GGP [1] and EMTO [2]. The first method standardizes the existing methods in explicit topological optimization. The second offers a multiscale topological optimization environment. The common point: Two pioneering work on SIMP published with the associated Matlab code top99 and top88 (initiative of the DTU). The comparison of these methods will be applied to an airplane wing rib (2D). We highlight here their complementarity, one giving a crystal clear structural concept, the other one giving a micro-architectural design whose manufacture must be automated (using 3D printer). A panorama of more advanced results in Pylon design [3] and ALM [4] will be highlighted for GGP. Finally, a brief introduction to Ecodesign with SIMP topology optimization will also be presented [5].
+
+
+[1] Coniglio, S., Morlier, J., Gogu, C., & Amargier, R. (2019). Generalized Geometry Projection: A Unified Approach for Geometric Feature Based Topology Optimization. Archives of Computational Methods in Engineering, 1-38.
+[2] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2021). A well connected, locally-oriented and efficient multi-scale topology optimization (EMTO) strategy. Structural and Multidisciplinary Optimization, 1-24.
+[3] Coniglio, S., Gogu, C., Amargier, R., & Morlier, J. (2019). Engine pylon topology optimization framework based on performance and stress criteria. AIAA Journal, 57(12), 5514-5526.
+[4] Bhat, K. V., Capasso, G., Coniglio, S., Morlier, J., & Gogu, C. (2022). On some applications of Generalized Geometric Projection to optimal 3D printing. Computers & Graphics, 199-212.
+[5] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2022). Ecodesign with topology optimization. Procedia CIRP.
+
+
+The GGP framework is available for download in both Matlab, Julia and Python programming language.
+ https://topggp.github.io/blog/
+
+The EMTO framework is available for download in Matlab only.
+https://github.com/mid2SUPAERO/EMTO
 
 
 
-En prévision de 2050, le tonnage total de béton, d'acier, d'aluminium etc… nécessaire au développement des énergies vertes sera de 2 à 8 fois la production mondiale de 2010. Comment s’adapter à ce contexte et s’inscrire dans le cadre d’une recherche aérospatiale plus verte ? La réponse passera en partie vers la conception de matériaux architecturés et des structures fonctionnels possédant des propriétés et des fonctions particulières. L’impact sera alors déterminant dans l’optique d’une minimisation de masse ou d’impact CO2. Toutefois, la conception de ces éco-structures ne peut pas être abordée avec les règles existantes qui sont appliquées dans le développement actuel des aérostructures. Le projet ANR MRSEI ECODD, entend révolutionner le processus d’exploration de ces structures combinant l’exploitation des différentes méthodes d’optimisation topologique (implicite, explicite, multi échelle), des méthodes d’accélération via modèles de substitution, ainsi que le lien vers l’impression 3D, et les structures souples. 
+##Talk 2 @AE
 
-![Aerostructures Durables](ECODD.png)
 
-L’objectif du projet est de développer une méthode innovante de construction de structures optimales éco conçues.  Ce travail transverse et collaboratif couvre le champ de la conception optimale des matériaux/structures mais aussi des procédés via l’analyse de cycle de vie et le bilan d’impact CO2 du procédé (incluant type de transport, lieu de fabrication, recyclabilité etc…) ainsi que le calcul haute performance raisonné. Le projet vise, en premier lieu, à concevoir, puis à fabriquer (via impression 3D) et tester des structures micro-architecturées et, en second lieu, à accélérer le cycle de conception/calcul via des techniques d’intelligence artificielle. Enfin l’objectif final serait d’initier la conception/fabrication de structures multifonctionnelles, multimatériaux et à déformation programmable sur quelques pièces ciblées d’aérostructures. Ce projet financé par l’ANR vise le dépôt d’une ERC Synergy Grant d’ici 2 ans avec 3 partenaires internationaux.
-</div>
+
