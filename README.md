@@ -41,12 +41,11 @@ The second part of the talk will show some progress in design methodology for ob
 
 
 
-https://github.com/topggp/blog
-Crystal clear and preliminary ALM
-https://github.com/mid2SUPAERO/EMTO
-Redesign for ALM
-https://smt.readthedocs.io/en/latest/
-Design Acceleration
+https://github.com/topggp/blog for Crystal clear and preliminary ALM
+
+https://github.com/mid2SUPAERO/EMTO for Redesigning structures for ALM
+
+https://smt.readthedocs.io/en/latest/ for Design Acceleration
 
 
 
