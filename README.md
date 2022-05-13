@@ -21,6 +21,7 @@ This presentation attempts to demonstrate the contribution of reproducible resea
 [5] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2022). Ecodesign with topology optimization. Procedia CIRP.
 
 https://github.com/topggp/blog for Crystal clear and preliminary ALM
+
 https://github.com/mid2SUPAERO/EMTO for Redesigning structures for ALM
 
 
@@ -43,8 +44,11 @@ The second part of the talk will show some progress in design methodology for ob
 [6] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2022). Ecodesign with topology optimization. Procedia CIRP.
 
 https://github.com/topggp/blog for Crystal clear and preliminary ALM
+
 https://github.com/mid2SUPAERO/EMTO for Redesigning structures for ALM
+
 https://smt.readthedocs.io/en/latest/ for Design Acceleration
+
 [Play online with SMT](https://colab.research.google.com/drive/1_7L6fNq8F-HBhm9hDno5rwTXfHKXLGCh?usp=sharing)
 
 
