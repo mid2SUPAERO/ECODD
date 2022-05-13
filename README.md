@@ -18,11 +18,9 @@ slides here https://github.com/mid2SUPAERO/ECODD/blob/main/3ME.pdf
 [5] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2022). Ecodesign with topology optimization. Procedia CIRP.
 
 
-The GGP framework is available for download in both Matlab, Julia and Python programming language.
- https://topggp.github.io/blog/
+https://github.com/topggp/blog for Crystal clear and preliminary ALM
 
-The EMTO framework is available for download in Matlab only.
-https://github.com/mid2SUPAERO/EMTO
+https://github.com/mid2SUPAERO/EMTO for Redesigning structures for ALM
 
 
 
