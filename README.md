@@ -56,7 +56,7 @@ https://smt.readthedocs.io/en/latest/ for Design Acceleration
 POPULARIZATION
 ******************
 
-[Linkedin on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
+[Linkedin on MDO](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
 
 [Linkedin on TopOpt](https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/)
 
