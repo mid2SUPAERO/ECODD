@@ -1,6 +1,27 @@
 # ANR MRSEI ECODD
 Visiting Prof at TU Delft
 
+******************
+POPULARIZATION
+******************
+
+[Linkedin on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
+
+[Linkedin on TopOpt](https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/)
+
+
+******************
+COURSE
+******************
+
+[MDO Course @ SUPAERO](https://github.com/jomorlier/mdocourse/)
+
+
+
+******************
+SEMINARS
+******************
+
 ## Talk 1 @ 3ME on the 9th of May 2022
 Title: On some recent developments in topology optimization of aerostructures {Stiffer, Lighter, Greener}
 Prof. Joseph Morlier, ISAE-SUPAEO/ICA {Visiting prof Kunal Masania at TU Delft May 2022}
@@ -8,7 +29,8 @@ Prof. Joseph Morlier, ISAE-SUPAEO/ICA {Visiting prof Kunal Masania at TU Delft M
 The goal of this presentation is to present two innovative numerical methods for designing ultralightweight structures.
 This presentation attempts to demonstrate the contribution of reproducible research with two recent attempts of Prof Morlier’s group untitled GGP [1] and EMTO [2]. The first method standardizes the existing methods in explicit topological optimization. The second offers a multiscale topological optimization environment. The common point: Two pioneering work on SIMP published with the associated Matlab code top99 and top88 (initiative of the DTU). The comparison of these methods will be applied to an airplane wing rib (2D). We highlight here their complementarity, one giving a crystal clear structural concept, the other one giving a micro-architectural design whose manufacture must be automated (using 3D printer). A panorama of more advanced results in Pylon design [3] and ALM [4] will be highlighted for GGP. Finally, a brief introduction to Ecodesign with SIMP topology optimization will also be presented [5].
 
-slides here https://github.com/mid2SUPAERO/ECODD/blob/main/3ME.pdf
+
+[Slides](https://github.com/mid2SUPAERO/ECODD/blob/main/3ME.pdf)
 
 
 [1] Coniglio, S., Morlier, J., Gogu, C., & Amargier, R. (2019). Generalized Geometry Projection: A Unified Approach for Geometric Feature Based Topology Optimization. Archives of Computational Methods in Engineering, 1-38.
@@ -33,7 +55,7 @@ The first part of the talk will present the Surrogate Modeling Toolbox (SMT). SM
 
 The second part of the talk will show some progress in design methodology for obtaining more sustainable aerostructures. We will first demonstrate the capability of explicit (GGP) and multiscale approach (EMTO) in TopOpt for the wing rib test case (2D) then we will briefly establish a new path toward Ecodesign of aerostructures by combining Ashby’s index with SIMP topology optimization [6].
 
-slides here https://github.com/mid2SUPAERO/ECODD/blob/main/AE.pdf
+[Slides](https://github.com/mid2SUPAERO/ECODD/blob/main/AE.pdf)
 
 
 [1] Bouhlel, M. A., Hwang, J. T., Bartoli, N., Lafage, R., Morlier, J., & Martins, J. R. (2019). A Python surrogate modeling framework with derivatives. Advances in Engineering Software, 135, 102662.
@@ -50,6 +72,12 @@ https://github.com/topggp/blog for Crystal clear and preliminary ALM
 https://github.com/mid2SUPAERO/EMTO for Redesigning structures for ALM
 
 https://smt.readthedocs.io/en/latest/ for Design Acceleration
+
+[Play online with SMT](https://colab.research.google.com/drive/1_7L6fNq8F-HBhm9hDno5rwTXfHKXLGCh?usp=sharing)
+
+
+
+
 
 
 
