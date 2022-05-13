@@ -15,9 +15,13 @@ This presentation attempts to demonstrate the contribution of reproducible resea
 [Slides](https://github.com/mid2SUPAERO/ECODD/blob/main/3ME.pdf)
 
 [1] Coniglio, S., Morlier, J., Gogu, C., & Amargier, R. (2019). Generalized Geometry Projection: A Unified Approach for Geometric Feature Based Topology Optimization. Archives of Computational Methods in Engineering, 1-38.
+
 [2] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2021). A well connected, locally-oriented and efficient multi-scale topology optimization (EMTO) strategy. Structural and Multidisciplinary Optimization, 1-24.
+
 [3] Coniglio, S., Gogu, C., Amargier, R., & Morlier, J. (2019). Engine pylon topology optimization framework based on performance and stress criteria. AIAA Journal, 57(12), 5514-5526.
+
 [4] Bhat, K. V., Capasso, G., Coniglio, S., Morlier, J., & Gogu, C. (2022). On some applications of Generalized Geometric Projection to optimal 3D printing. Computers & Graphics, 199-212.
+
 [5] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2022). Ecodesign with topology optimization. Procedia CIRP.
 
 https://github.com/topggp/blog for Crystal clear and preliminary ALM
@@ -37,10 +41,15 @@ The second part of the talk will show some progress in design methodology for ob
 [Slides](https://github.com/mid2SUPAERO/ECODD/blob/main/AE.pdf)
 
 [1] Bouhlel, M. A., Hwang, J. T., Bartoli, N., Lafage, R., Morlier, J., & Martins, J. R. (2019). A Python surrogate modeling framework with derivatives. Advances in Engineering Software, 135, 102662.
+
 [2] Coniglio, S., Morlier, J., Gogu, C., & Amargier, R. (2019). Generalized Geometry Projection: A Unified Approach for Geometric Feature Based Topology Optimization. Archives of Computational Methods in Engineering, 1-38.
+
 [3] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2021). A well connected, locally-oriented and efficient multi-scale topology optimization (EMTO) strategy. Structural and Multidisciplinary Optimization, 1-24.
+
 [4] Mas Colomer, J., Bartoli, N., Lefebvre, T., Martins, J. R., & Morlier, J. (2021). An MDO-based methodology for static aeroelastic scaling of wings under non-similar flow. Structural and Multidisciplinary Optimization, 63(3), 1045-1061.
+
 [5] Duriez, E., Guadano Martin, Morlier, J. (2022). HALE multidisciplinary ecodesign optimization with material selection, under review
+
 [6] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2022). Ecodesign with topology optimization. Procedia CIRP.
 
 https://github.com/topggp/blog for Crystal clear and preliminary ALM
