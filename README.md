@@ -1,9 +1,8 @@
 # ANR MRSEI ECODD
-Visiting Prof at TU Delft
 
-******************
-SEMINARS
-******************
+***********************
+SEMINARS AT TU Delft
+***********************
 
 ## Talk 1 @ 3ME on the 9th of May 2022
 
@@ -60,6 +59,17 @@ https://github.com/mid2SUPAERO/EMTO for Redesigning structures for ALM
 https://smt.readthedocs.io/en/latest/ for Design Acceleration
 
 [Play online with SMT](https://colab.research.google.com/drive/1_7L6fNq8F-HBhm9hDno5rwTXfHKXLGCh?usp=sharing)
+
+
+******************
+SEMINAR at UMich
+******************
+
+## Talk 3 @ MDOlab on the 23th of June 2022
+
+## Title: A new recipe in EcoDesign for Additive Manufacturing (EDfAM)
+
+[Slides](https://github.com/mid2SUPAERO/ECODD/blob/main/MDOlab.pdf)
 
 
 ******************
