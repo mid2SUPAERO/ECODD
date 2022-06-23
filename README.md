@@ -1,4 +1,5 @@
 # ANR MRSEI ECODD
+https://anr.fr/Project-ANR-21-MRS1-0009
 
 ***********************
 SEMINARS AT TU Delft
@@ -67,9 +68,27 @@ SEMINAR at UMich
 
 ## Talk 3 @ MDOlab on the 23th of June 2022
 
-## Title: A new recipe in EcoDesign for Additive Manufacturing (EDfAM)
+## Title: Can we formulate EDfAM as an MDO problem ?
 
 [Slides](https://github.com/mid2SUPAERO/ECODD/blob/main/MDOlab.pdf)
+
+This presentation will try to demonstrate the EcoDesign for Additive Manufacturing can be decomposed in an MDO problem with disciplines such as Product, Material, Process and LCA/Eco selector. The new design variable in the MDO are: Material [1] , Process, and Multiscale Topology Optimization [2] to design ultralight sustainable aerostructures [3]. In Bonus, you can find "what's new in SMT [4] in 2022?", with a focus on Mixed Continuous Integer surrogate models (Continuous Relaxation and Gower Distance).
+
+[1] Duriez, E., Guadano Martin, Morlier, J. (2022). HALE multidisciplinary ecodesign optimization with material selection, under review
+
+[2] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2021). A well connected, locally-oriented and efficient multi-scale topology optimization (EMTO) strategy. Structural and Multidisciplinary Optimization, 1-24.
+
+[3] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2022). Ecodesign with topology optimization. Procedia CIRP.
+
+[4] Bouhlel, M. A., Hwang, J. T., Bartoli, N., Lafage, R., Morlier, J., & Martins, J. R. (2019). A Python surrogate modeling framework with derivatives. Advances in Engineering Software, 135, 102662.
+
+https://github.com/topggp/blog for Crystal clear and preliminary ALM
+
+https://github.com/mid2SUPAERO/EMTO for Redesigning structures for ALM
+
+https://smt.readthedocs.io/en/latest/ for Design Acceleration
+
+[Play online with SMT](https://colab.research.google.com/drive/1_7L6fNq8F-HBhm9hDno5rwTXfHKXLGCh?usp=sharing)
 
 
 ******************
