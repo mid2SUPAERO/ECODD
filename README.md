@@ -82,7 +82,7 @@ This presentation will try to demonstrate the EcoDesign for Additive Manufacturi
 
 [4] Bouhlel, M. A., Hwang, J. T., Bartoli, N., Lafage, R., Morlier, J., & Martins, J. R. (2019). A Python surrogate modeling framework with derivatives. Advances in Engineering Software, 135, 102662.
 
-https://github.com/topggp/blog for Crystal clear and preliminary ALM
+[https://github.com/topggp/blog](https://github.com/mid2SUPAERO/ecoHALE) for EcoHale Design
 
 https://github.com/mid2SUPAERO/EMTO for Redesigning structures for ALM
 
