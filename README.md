@@ -90,6 +90,8 @@ https://smt.readthedocs.io/en/latest/ for Design Acceleration
 
 [Play online with SMT](https://colab.research.google.com/drive/1_7L6fNq8F-HBhm9hDno5rwTXfHKXLGCh?usp=sharing)
 
+or access here
+https://github.com/SMTorg/smt/blob/master/tutorial/README.md
 
 ******************
 POPULARIZATION
