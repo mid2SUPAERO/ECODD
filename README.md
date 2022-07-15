@@ -93,6 +93,16 @@ https://smt.readthedocs.io/en/latest/ for Design Acceleration
 or access here
 https://github.com/SMTorg/smt/blob/master/tutorial/README.md
 
+********************
+SEMINAR at Concordia
+********************
+
+## Talk 4 With Msc and Phd Students on the 15th of July 2022
+
+## Title: Can we formulate EDfAM as an MDO problem ?
+
+[Slides](https://github.com/mid2SUPAERO/ECODD/blob/main/MDOlab.pdf)
+
 ******************
 POPULARIZATION
 ******************
@@ -100,7 +110,6 @@ POPULARIZATION
 [Linkedin on MDO](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
 
 [Linkedin on TopOpt](https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/)
-
 
 ******************
 COURSE
